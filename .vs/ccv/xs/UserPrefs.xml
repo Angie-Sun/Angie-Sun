@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{7CE74871-BF76-4B89-82D5-3D89114A1F60}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ccv.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ccv.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ccv FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ccv/ccv.iOS/Main.cs">
+    <Files>
+      <File FileName="ccv/ccv/MainPage.xaml.cs" />
+      <File FileName="ccv/ccv/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="ccv/ccv/a.cs" Line="2" Column="13" />
+      <File FileName="ccv/ccv/b.cs" Line="2" Column="14" />
+      <File FileName="ccv/ccv/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="ccv/ccv.iOS/Main.cs" Line="8" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ccv" expanded="True">
+            <Node name="ccv" expanded="True" />
+            <Node name="ccv.iOS" expanded="True">
+              <Node name="Main.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>currenCount</Value>
+          <Value>currentCount</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.SelectDevice" />
+</Properties>
